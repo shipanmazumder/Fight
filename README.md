@@ -1,1 +1,2 @@
-# pen_fight_backend
+# Fight
+A game backend api
